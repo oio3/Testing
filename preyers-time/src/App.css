@@ -1,10 +1,16 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@100..900&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+html {
+direction: rtl;
+font-size: smaller;
+}
+body {
+  font-family: "Noto Sans Arabic", sans-serif;
 }
 
+.title{
+  opacity: 0.6;
+  
+}
 .logo {
   height: 6em;
   padding: 1.5em;

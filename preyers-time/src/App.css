@@ -2,9 +2,6 @@ html {
 direction: rtl;
 font-size: smaller;
 }
-body {
-  font-family: "Noto Sans Arabic", sans-serif;
-}
 
 .title{
   opacity: 0.6;
